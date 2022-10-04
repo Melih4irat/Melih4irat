@@ -1,5 +1,3 @@
-
-<h1 align="center">Hi, I´m Melih Firat</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
@@ -37,10 +35,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" width="100px">
       </div>
 <h2>Projects:</h2>
-
-- 👀 I’m interested in ...
-
-- 📫 How to reach me ...
+<h2>Contact</h2>
 
 <!---
 Melih4irat/Melih4irat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
