@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <h1>Hi, I´m Melih Firat</h1>
-<h2>About Me:</h2>
+<h2 align="left">About Me:</h2>
   <ul align="left">
   <li>I am a media designer based in Duisburg, Germany.</li>
   <li>I´m currently learning web development in a boot camp at Neue Fische(https://www.neuefische.de/).</li>
