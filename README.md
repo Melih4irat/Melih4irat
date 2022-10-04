@@ -32,7 +32,9 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100px">
-            
+            <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" width="100px">
       </div>
 <h2>Projects:</h2>
 
