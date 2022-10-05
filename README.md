@@ -22,7 +22,7 @@
   <li>I am a media designer based in :earth_americas: :de: Duisburg, Germany.</li>
   <li>I´m currently learning :computer: web development in a boot camp at <a href="https://www.neuefische.de/">Neue Fische</a>. Estimated completion date is January 6, 2023</li>
   <li>I am looking for a job as a web developer very soon after the boot camp!</li>
-  <li>For more information about my CV visit my Linkedin page. Use the button linkedin above or click <a href="https://de.linkedin.com/in/melih-firat-454a791b6">here</a>.
+  <li>For more information about my CV visit my Linkedin page. Use the button linked above or click <a href="https://de.linkedin.com/in/melih-firat-454a791b6">here</a>.
     <li>My hobbies are ...<ul><li>:surfer: Wakeboarding</li><li>:surfer: Surfing</li><li>:swimmer: Diving</li><li>:camera: Photography</li><li>:movie_camera: Video shoot/edit</li><li>:art: Art</li></li>
 </ul>
 </div>
