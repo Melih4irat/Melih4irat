@@ -19,7 +19,7 @@
 <h1>Hi, I´m Melih Firat</h1>
 <h2 align="left">:man: About Me:</h2>
   <ul align="left">
-    <li>Hello, I am [Your Name], an aspiring Frontend Web Developer and Media Designer with a passion for digital creations and a desire to constantly learn. Despite my limited professional experience, I am determined to expand my skills and undertake challenging projects.</li>
+    <li>Hello, I am Melih, an aspiring Frontend Web Developer and Media Designer with a passion for digital creations and a desire to constantly learn. Despite my limited professional experience, I am determined to expand my skills and undertake challenging projects.</li>
   <li>based in :earth_americas: :de: Duisburg, Germany.</li>
   
   <li>For more information about my CV visit my Linkedin page. Use the button linked above or click <a href="https://de.linkedin.com/in/melih-firat-454a791b6">here</a>.
