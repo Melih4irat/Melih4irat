@@ -19,14 +19,14 @@
 <h1>Hi, I´m Melih Firat</h1>
 <h2 align="left">:man: About Me:</h2>
   <ul align="left">
-  <li>I am a media designer based in :earth_americas: :de: Duisburg, Germany.</li>
-  <li>I´m currently learning :computer: web development in a boot camp at <a href="https://www.neuefische.de/">Neue Fische</a>. Estimated completion date is January 6, 2023</li>
-  <li>I am looking for a job as a web developer very soon after the boot camp!</li>
+    <li>Hello, I am [Your Name], an aspiring Frontend Web Developer and Media Designer with a passion for digital creations and a desire to constantly learn. Despite my limited professional experience, I am determined to expand my skills and undertake challenging projects.</li>
+  <li>based in :earth_americas: :de: Duisburg, Germany.</li>
+  
   <li>For more information about my CV visit my Linkedin page. Use the button linked above or click <a href="https://de.linkedin.com/in/melih-firat-454a791b6">here</a>.
     <li>My hobbies are ...<ul><li>:surfer: Wakeboarding</li><li>:surfer: Surfing</li><li>:swimmer: Diving</li><li>:camera: Photography</li><li>:movie_camera: Video shoot/edit</li><li>:art: Art</li></li>
 </ul>
 </div>
-<h2>:rocket: Projects:</h2>
+
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
       <div>
             <h3>Languages</h3>
