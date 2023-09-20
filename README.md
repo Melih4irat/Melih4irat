@@ -36,7 +36,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100px">
             <h3>Frameworks</h3>
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100px">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="100px" filter="invert(1)">
             <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="100px">
             <h3>Datenbanken</h3>
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="100px">
