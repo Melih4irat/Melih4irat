@@ -33,8 +33,13 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100px">
             <h3>Frameworks</h3>
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="100px">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="100px">
+            <h3>Datenbanken</h3>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="100px">
             <h3>Tools</h3>
             <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100px">
             <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="100px">
